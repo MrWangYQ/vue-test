@@ -1,0 +1,25 @@
+{
+  "name": "works",
+  "short_name": "wyq",
+  "icons": [
+    {
+      "src": "./images/a.png",
+      "sizes": "36X36",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/works.png",
+      "sizes": "48X48",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/works.png",
+      "sizes": "144X144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/#/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#eaffea"
+}
